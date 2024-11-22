@@ -1,0 +1,11 @@
+# Escape Sequences
+- `\n` <b> Newline
+- `\t` <b> Horizontal tab
+- `\b` <b> Backspace
+- `\r` <b> Carriage return
+- `\f` <b> Form feed
+- `\\` <b> Backslash
+- `\'` <b> Single quote
+- `\"` <b> Double quote
+- `\0` <b> Null character
+- `\a` <b> a beep sound (if supported)
